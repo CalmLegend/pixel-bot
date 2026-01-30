@@ -1,11 +1,11 @@
 {
-    "owner": "your_uid_here",
-    "token": "bot_token_here",
-    "bot_name": "Ispyra",
+    "owner": "1391705452240437290",
+    "token": "MTQ2NDQwMTIyNjQzODU0MTU3Nw.G2_gn3.DTaM5J_7S3dhJv7VTQlBfZazpNSUzaYrJYRwYY",
+    "bot_name": "UltraNode",
     "bot_avatar": "avatar.png",
     "command_prefix": "|",
     "commands_on_edit": true,
-    "log_file": "ispyra.log",
+    "log_file": "UltraNode.log",
     "log_messages": true,
     "log_commands": true
 }
